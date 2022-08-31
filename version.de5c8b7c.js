@@ -1,0 +1,1 @@
+("undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:"undefined"!=typeof window?window:"undefined"!=typeof global?global:{}).parcelRequired170.register("3g9nn",(function(e,n){var f,o,t,i;function l(){return"0.0.65"}f=e.exports,o="default",t=function(){return l},Object.defineProperty(f,o,{get:t,set:i,enumerable:!0,configurable:!0})}));
