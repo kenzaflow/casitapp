@@ -1,4 +1,4 @@
-# casitapp
+# Casitapp
 
 ## Esta repo
 
